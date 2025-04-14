@@ -32,7 +32,4 @@ Instale as dependências:
   pip install pandas 
 ```
 
-Execute a aplicação:
-```bash
-  python .\app.py
-```
+Executar a aplicação, clicar em 'Run All'
