@@ -6,14 +6,14 @@ Este é um projeto de análise de dados com Python, focado em entender o comport
 ## Tecnologias utilizadas:
 
 - Python
-- Jupyter Notebook (opcional)
+- Jupyter Notebook
 
 ## Como utilizar esse projeto de maneira local:
 
 #### Pré requisitos:
 
 - Ter o Python instalado
-- Ter o Jupyter Notebook instalado (opcional)
+- Ter o Jupyter Notebook instalado
 
 ### Passo a passo
 
